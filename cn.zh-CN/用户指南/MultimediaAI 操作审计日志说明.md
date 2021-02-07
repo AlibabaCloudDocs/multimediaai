@@ -9,7 +9,7 @@ MultimediaAI 操作审计日志说明
 
 **ActionTrail 中记录的 MultimediaAI 操作日志** 
 
-MultimediaAI 的操作审计日志主要包含的是 API 事件，其中 OpenAPI 事件在 ActionTrail 中记录的 eventType 取值为 ApiCall，其含义可以参考 [MultimediaAI 的 API 说明](https://help.aliyun.com/document_detail/139446.html?spm=a2c4g.11186623.6.562.7905213bmI6vR4)。
+MultimediaAI 的操作审计日志主要包含的是 API 事件，其中 OpenAPI 事件在 ActionTrail 中记录的 eventType 取值为 ApiCall，其含义可以参考 [MultimediaAI 的 API 说明](https://help.aliyun.com/document_detail/139446.html?spm=a2c4g.11186623.6.562.7905213bmI6vR4)。目前线上的用户访问操作，统一投递到cn-beijing区域，用户可以进行查询。
 
 
 
